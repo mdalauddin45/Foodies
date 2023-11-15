@@ -1,0 +1,34 @@
+*{
+    font-family: 'Raleway', sans-serif;
+}
+.navbar-container{
+    background-image:url(./images/bg/bg-1.jpg);
+    height: 100vh;
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.title-container{
+    justify-content: center;
+    align-items: center;
+    padding-top: 20%;
+}
+
+.title-container h1{
+    font-size: 50px;
+    font-weight: 700;
+    color: #a82c48;
+}
+#helo{
+    background-color: #a82c48;
+    font-weight: 700;
+    color: white;
+}
+#helo:hover{
+    background-color: white;
+    font-weight: 700;
+    color: #a82c48;
+    border: 1px solid #a82c48;
+    font-weight: 700;
+}
